@@ -85,7 +85,7 @@ You can configure CLINE with the Custom Instructions available in cline_custom_i
 
 Example query:
 ```
-Using only the configured aws-cost-mcp server's resources and tools, graphically anaylse the ec2 cost trend across jan and feb 2025.
+Using only the configured aws-cost-mcp server's resources and tools, analyze the ec2 cost trend across jan and feb 2025.
 ```
 Cline response: 
 
