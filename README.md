@@ -89,7 +89,8 @@ Using only the configured aws-cost-mcp server's resources and tools, graphically
 ```
 Cline response: 
 
-<img width="805" alt="Screenshot 2025-03-24 at 9 33 15 PM" src="https://github.com/user-attachments/assets/ffe3157b-942d-4d51-8052-6b0229a8e9ac" />
+<img width="805" alt="Screenshot 2025-03-24 at 9 33 15 PM" src="https://github.com/user-attachments/assets/1808240d-8404-41a7-8455-598746a02070" />
+
 
 ## Usage
 
