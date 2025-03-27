@@ -21,7 +21,7 @@ An MCP server focused on querying AWS Cost and Usage Report (CUR) data through A
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/aws-cost-mcp.git
+    git clone https://github.com/CRED-CLUB/aws-cost-mcp.git
     cd aws-cost-mcp
     ```
 
